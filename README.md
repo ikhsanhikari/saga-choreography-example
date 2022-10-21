@@ -1,5 +1,6 @@
 # saga-choreography-example
 
+![image](https://user-images.githubusercontent.com/28156593/197127285-c482ccfc-04e7-44f8-a9db-3075c7de6d57.png)
 
 ## request
 ```bash
